@@ -1,7 +1,9 @@
 ### Hi there :wave:
 
-- :telescope: I'm currently working on some personal ideas
-- :seedling: I am currently learning Flutter and other things like MobX, BLoC, S.O.L.I.D, Patterns, Architecture and studying Python. Also databases like Firebase and PostgreSQL.
-- :dart: I'm available to work
+- 🔭 I'm currently working on some personal ideas
+- 🌱 I am currently learning Flutter and other things like MobX, BLoC, S.O.L.I.D, Patterns, Architecture and studying Python. Also databases like Firebase and PostgreSQL.
+- 🎯 I'm available to work
+- 🎓 Graduate in Information Systems
+- 🎓 Post Graduation in IT Governance
 - 🇧🇷 Born in Itabuna-BA, Brazil
-- :mailbox_closed: How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01)
+- 📪 How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01)
