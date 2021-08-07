@@ -1,4 +1,4 @@
-### Hi there :wave:
+### Hi there 👋
 
 - 🔭 I'm currently working on some personal ideas
 - 🌱 I am currently learning Flutter and other things like MobX, BLoC, S.O.L.I.D, Patterns, Architecture and studying Python. Also databases like Firebase and PostgreSQL.
