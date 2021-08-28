@@ -7,3 +7,6 @@
 - 🎓 Post Graduation in IT Governance
 - 🇧🇷 Born in Itabuna-BA, Brazil
 - 📪 How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01)
+
+![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciano01&&layout=compact&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano01&layout=compact&theme=dark)](https://github.com/luciano01/github-readme-stats)
