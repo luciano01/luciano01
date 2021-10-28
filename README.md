@@ -9,6 +9,6 @@
 - 📪 How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01)
 
 ![Luciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=luciano01&layout=compact&theme=github_dark&show_icons=true&line_height=20) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano01&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano01&layout=compact&theme=github_dark&line_height=20)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/luciano01/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=LINK_TELEGRAM)](https://t.me/luciiano01)
