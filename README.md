@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on some personal ideas.
-- 🌱 I'm always learning Flutter, Dart, Python MobX, BLoC, S.O.L.I.D, Design Patterns, Clean Architecture, Clean Code. Also databases like Firebase, PostgreSQL and GraphQL with Hasura Engine.
+- 🌱 I'm always learning Flutter, Dart, Python, MobX, BLoC, S.O.L.I.D, Design Patterns, Clean Architecture, Clean Code. Also databases like Firebase, PostgreSQL and GraphQL with Hasura Engine. 
 - 🎯 I'm available to work.
 - 🎓 Graduate in Information Systems.
 - 🎓 Post Graduation in IT Governance.
