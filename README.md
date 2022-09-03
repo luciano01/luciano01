@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I'm always working on some personal ideas to learn new things.
-- 🌱 I'm currently studying about S.O.L.I.D, Clean Architecture and Clean Code. 
-- 🎓 Graduate in Information Systems.
-- 🎓 Post Graduation in IT Governance.
-- 🇧🇷 Born in Itabuna-BA, Brazil.
-- 📪 How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01).
+- 💡 I'm always working on some personal ideas to learn new things;
+- 📖 I'm currently studying about S.O.L.I.D, Clean Architecture and Clean Code;
+- 💻 Currently working at [IdoLink](https://idolink.com);
+- 🎓 Graduate in Information Systems;
+- 🎓 Post Graduation in IT Governance;
+- 🇧🇷 Born in Itabuna-BA, Brazil;
+- 📪 How to reach me: [Linkedin](https://br.linkedin.com/in/luciano01);
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luciano01&layout=compact&theme=github_dark)
 
