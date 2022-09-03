@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 💡 I'm always working on some personal ideas to learn new things;
 - 📖 I'm currently studying about S.O.L.I.D, Clean Architecture and Clean Code;
