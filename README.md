@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on some personal ideas.
-- 🌱 I'm always learning Flutter, Dart, Python, MobX, BLoC, S.O.L.I.D, Design Patterns, Clean Architecture, Clean Code. Also databases like Firebase, PostgreSQL and GraphQL with Hasura Engine. 
-- 🎯 I'm available to work.
+- 🔭 I'm always working on some personal ideas to learn new things.
+- 🌱 I'm currently studying about S.O.L.I.D, Clean Architecture and Clean Code. 
 - 🎓 Graduate in Information Systems.
 - 🎓 Post Graduation in IT Governance.
 - 🇧🇷 Born in Itabuna-BA, Brazil.
