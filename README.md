@@ -4,7 +4,7 @@
 ## 🌟 Aberto a Novas Oportunidades 🌟
 ## Sobre Mim 🚀
 
-Olá! Sou um desenvolvedor de aplicativos móveis com experiência em Flutter e Dart. Estou comprometido em escrever código limpo, seguir arquiteturas sólidas e aplicar práticas de desenvolvimento de software modernas. Tenho paixão por testes e construção de aplicativos escaláveis e de alta qualidade.
+Olá! Sou um desenvolvedor de aplicativos móveis com experiência em Flutter e Dart. Estou comprometido em escrever código limpo, seguir arquiteturas sólidas e aplicar práticas de desenvolvimento de software modernas.
 
 ## Principais Habilidades 💼
 
