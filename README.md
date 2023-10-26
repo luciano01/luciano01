@@ -9,7 +9,7 @@ Olá! Sou um desenvolvedor de aplicativos móveis com experiência em Flutter e 
 ## Principais Habilidades 💼
 
 - **Flutter & Dart:** Conhecimento avançado na criação de aplicativos móveis multiplataforma com Flutter e na linguagem Dart.
-- **Controle de Versão:** Experiente em Git e GitHub para controle de versão e colaboração em projetos.
+- **Controle de Versão:** Experiente em Git e GitHub para controle de versão.
 - **Arquitetura Limpa (Clean Architecture):** Familiarizado com princípios de arquitetura limpa e desenvolvimento de código limpo.
 - **Test-Driven Development (TDD):** Prática de TDD para garantir a qualidade do código.
 - **Gerenciadores de Estado:** Experiência com GetX, MobX, BLoC, Cubit e RxDart para gerenciamento de estado.
