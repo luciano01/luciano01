@@ -29,7 +29,6 @@ Estou sempre buscando aprender e me atualizar com as últimas tendências e tecn
 ## Contato 📧
 
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/luciano01/)
-- Email: luciano01.dev@gmail.com
 
 Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou projetos emocionantes no mundo do desenvolvimento de aplicativos móveis.
 
