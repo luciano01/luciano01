@@ -1,34 +1,23 @@
 
 
-## Olá, seja bem-vindo!
-## 🌟 Aberto a Novas Oportunidades 🌟
-## Sobre Mim 🚀
+## Oi 👋
 
-Olá! Sou um desenvolvedor de aplicativos móveis com experiência em Flutter e Dart. Estou comprometido em escrever código limpo, seguir arquiteturas sólidas e aplicar práticas de desenvolvimento de software modernas.
+## Aberto a Novas Oportunidades 🚀
 
-## Principais Habilidades 💼
+## Sobre Mim 😃
 
-- **Flutter & Dart:** Conhecimento avançado na criação de aplicativos móveis multiplataforma com Flutter e na linguagem Dart.
-- **Controle de Versão:** Experiente em Git e GitHub para controle de versão.
-- **Arquitetura Limpa (Clean Architecture):** Familiarizado com princípios de arquitetura limpa e desenvolvimento de código limpo.
-- **Test-Driven Development (TDD):** Prática de TDD para garantir a qualidade do código.
-- **Gerenciadores de Estado:** Experiência com GetX, MobX, BLoC, Cubit e RxDart para gerenciamento de estado.
-- **Injeção de Dependência:** Utilização de Get, GetX, Provider e Flutter Modular para injeção de dependência.
-- **Firebase:** Conhecimento em Firebase Firestore, Firebase Auth e Firebase Storage para desenvolvimento de aplicativos baseados em nuvem.
-- **Integração de API:** Experiência em integração de APIs RESTful para obter e enviar dados em aplicativos.
-- **Armazenamento Local:** Uso de Hive, SQflite e Shared Preferences para armazenamento de dados local em aplicativos.
+Como desenvolvedor de software com dois anos de experiência, meu foco principal é o desenvolvimento de aplicativos com Flutter. Essa experiência me permitiu compreender melhor as complexidades do desenvolvimento de aplicativos e entregar resultados satisfatórios aos clientes. Em paralelo, estou aprendendo desenvolvimento para Android Nativo e iOS. 
 
-## Sobre meu projetos 💡
+Minha experiência tem base em Dart e Flutter, bem como em boas práticas que englobam o desenvolvimento de software, como Padrões de Projeto, Arquitetura Limpa, Código Limpo, Testes (Unitários e Widgets), Armazenamento e muita Lógica.
 
-Durante os estudos de uma nova tecnologia ou uma nova abordagem, crio pequenas ideias de aplicativos que sejam mais próximas do mundo real. Seja bem-vindo para colaborar, criticar ou compartilhar.
+Minhas habilidades em Flutter incluem o Dart, Gerenciamento de Estado (GetX , MobX e aprendendo BLoC), Arquiteturas (Atomic Design, MVC e aprendendo MVVM), Firebase, Integração de API REST, Controle de Versão com Git, Testes (Unitário, Widget e aprendendo prática do TDD), Injeção de Dependências com Get, GetX, FlutterModular e aprendendo Provider), Armazenamento (Hive, SQflite, API, Firebase).
 
-## Aprendizado Constante 📚
+Enquanto estou em busca de oportunidades de trabalho, estou aplicando todo o meu conhecimento e novas abordagens com Flutter em um projeto pessoal. Além disso, estou fazendo um curso de Android Nativo, onde estou aprendendo sobre XML, a biblioteca de armazenamento local Room, Coroutines para execuções assíncronas, ciclo de vida da aplicação, Fragments, Activities, ConstraintLayout e RecyclerView. Em breve Jetpack Compose.
 
-Estou sempre buscando aprender e me atualizar com as últimas tendências e tecnologias no desenvolvimento de aplicativos móveis. Atualmente, estou explorando novas abordagens do Android nativo, como o Android Jetpack.
+☘️
 
 ## Contato 📧
 
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/luciano01/)
 
-Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou projetos emocionantes no mundo do desenvolvimento de aplicativos móveis.
-
+Sinta-se à vontade para entrar em contato comigo para discutir oportunidades, dúvidas ou se precisar de ajuda.
